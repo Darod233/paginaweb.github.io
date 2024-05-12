@@ -982,12 +982,12 @@ ul.sign li a i {
 .business .read_more {
      color: #f2db18 !important;
      margin-top: 60px;
+     max-width: 200px;
 }
 
 .business .read_more::before {
      border-right: #f2db18 solid 1px;
      border-width: auto;
-     max-width: 200px;
 }
 
 
